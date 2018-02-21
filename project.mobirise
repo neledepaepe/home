@@ -33,7 +33,11 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "99967015",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
